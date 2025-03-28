@@ -43,23 +43,25 @@ Save the `gradcheck.py` file and you should be good to go.
 
 ## Paper
 
-* [Preprint](https://arxiv.org/abs/2310.13019)
-* This work has been accepted for publication in _Nature Scientific Reports_. To be added here [TBA](#).
+* Published on Nature Scientific Reports. [Link](https://www.nature.com/articles/s41598-025-87405-w).
 
 ## References
 
 If you have used this code, please cite the following paper:
 
-[1] Tailoring Adversarial Attacks on Deep Neural Networks for Targeted Class Manipulation Using DeepFool Algorithm. S. M. Fazle Rabby Labib, Joyanta Jyoti Mondal, Meem Arafat Manab, Xi Xiao, and Sarfaraz Newaz.
+[1] S. M. F. R. Labib, J. J. Mondal, M. A. Manab, X. Xiao, and S. Newaz, “Tailoring adversarial attacks on deep neural networks for targeted class manipulation using DeepFool algorithm,” Scientific Reports, vol. 15, no. 1, p. 10790, 2025, doi: 10.1038/s41598-025-87405-w.
 
 ```bibtex
-@misc{labib2024tailoringadversarialattacksdeep,
-      title={Tailoring Adversarial Attacks on Deep Neural Networks for Targeted Class Manipulation Using DeepFool Algorithm}, 
-      author={S. M. Fazle Rabby Labib and Joyanta Jyoti Mondal and Meem Arafat Manab and Xi Xiao and Sarfaraz Newaz},
-      year={2024},
-      eprint={2310.13019},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2310.13019}, 
+@article{Labib_2025,
+    title = {Tailoring Adversarial Attacks on Deep Neural Networks for Targeted Class Manipulation Using DeepFool Algorithm},
+    year = {2025},
+    ISSN = {2045-2322},
+    url = {https://doi.org/10.1038/s41598-025-87405-w},
+    DOI = {10.1038/s41598-025-87405-w},
+    number = {1},
+    volume = {15},
+    journal = {Scientific Reports},
+    publisher = {Springer Science and Business Media LLC},
+    author = {Labib, S M Fazle Rabby and Mondal, Joyanta Jyoti and Manab, Meem Arafat and Xiao, Xi and Newaz, Sarfaraz},
 }
 ```
