@@ -8,6 +8,7 @@ We encourage creating a virtual enviornment to run our code.
 
 ### Requirements
 
+```
 torch == 2.0.0+cu117  
 
 torchaudio == 2.0.1+cu117  
@@ -17,6 +18,7 @@ torchmetrics == 0.11.4
 torchvision == 0.15.1+cu117  
 
 matplotlib == 3.7.1
+```
 
 ### Issues you might run into
 
