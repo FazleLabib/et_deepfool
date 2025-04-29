@@ -1,4 +1,4 @@
-[![Preprint](https://img.shields.io/badge/arXiv-2310.13019-b31b1b)](https://arxiv.org/abs/2310.13019)
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--025--87405--w-blue)](https://doi.org/10.1038/s41598-025-87405-w) [![Preprint](https://img.shields.io/badge/arXiv-2310.13019-b31b1b)](https://arxiv.org/abs/2310.13019) [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTCC.2022.3162790-blue)](https://doi.org/10.1109/TCC.2022.3162790)
 
 # About
 
