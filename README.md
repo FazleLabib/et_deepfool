@@ -22,9 +22,9 @@ torchvision == 0.15.1+cu117
 matplotlib == 3.7.1
 ```
 
-### Issues you might run into
+### Issues you might run into:
 
-You might run into a problem when importing the libraries.
+You may run into a problem when importing the libraries.
 
 The following error might show up: **"cannot import name 'zero_gradients' from 'torch.autograd.gradcheck"**
 
